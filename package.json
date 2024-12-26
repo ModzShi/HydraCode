@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "gradient-string": "^2.0.2",
+    "telegraf": "^4.16.3"
+  }
+}
